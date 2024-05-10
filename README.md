@@ -1,2 +1,2 @@
-# imersao_ai_alura
-Repositório pessoal da imersão da Alura em AI
+# Imersão Alura em Inteligência Artificial
+Neste repositório pessoal compartilho minha experiência na imersão, códigos desenvolvidos e materiais disponibilizados pela Alura
